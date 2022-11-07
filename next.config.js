@@ -10,7 +10,7 @@ module.exports = {
     defaultGas: 125000,//75000,
     mintType : "Pre-Sale", //Pre-Sale Public
     enforceWhitelist : true,
-    ethValue : "0.03",
+    ethValue : "0.007",
     ethWLValue : "0.00",
     debug: false,
     network: 'mainnet',
@@ -25,9 +25,9 @@ module.exports = {
     links : {
       opensea : "https://opensea.io/collection/rockin-skulls-nft",
       discord : "",
-      twitter : ""
+      twitter : "https://twitter.com/RockinSkullsNFT"
     },
-    maxMint: 550,
+    maxMint: 555,
     maxMintCount: 50,
     messagehash: '0x865f293da4a629f00bd8072be6115031c608fa4a13b819fd087811752fc8bb90',
     signatureBytes: '0x4b7715f34823936b045d1e5ca6c295b7f5ecff3d0c158118c71441ed217c3ddb026617ce49dc15781bdb25c8c34ed4a1f4d68df6080f6dd0004511cf05032bf01c',
