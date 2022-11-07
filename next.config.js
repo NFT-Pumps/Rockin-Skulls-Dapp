@@ -15,16 +15,15 @@ module.exports = {
     debug: false,
     network: 'mainnet',
     chainId: 1,
-    pageHeader : 'Rockin' Skulls NFT',
+    pageHeader : 'Rockin Skulls NFT',
     pageText : 'AI is in control',
     //mintType: "Whitelist",
     blockExplorerURL: 'https://.etherscan.io/',
     www: 'https://www.rockinskullsnft.com/',
     mainWWW: 'https://www.rockinskullsnft.com/',
-    title: 'Rockin' Skulls NFT',
+    title: 'Rockin Skulls NFT',
     links : {
       opensea : "https://opensea.io/collection/rockin-skulls-nft",
-      discord : "",
       twitter : ""
     },
     maxMint: 550,
