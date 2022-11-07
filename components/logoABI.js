@@ -338,6 +338,21 @@ export default function ContractABI() {
       },
       {
          "inputs":[
+            
+         ],
+         "name":"buyBonusMultiplier",
+         "outputs":[
+            {
+               "internalType":"uint256",
+               "name":"",
+               "type":"uint256"
+            }
+         ],
+         "stateMutability":"view",
+         "type":"function"
+      },
+      {
+         "inputs":[
             {
                "internalType":"uint256",
                "name":"tokenId",
@@ -1142,6 +1157,21 @@ export default function ContractABI() {
       {
          "inputs":[
             {
+               "internalType":"uint256",
+               "name":"_multiplier",
+               "type":"uint256"
+            }
+         ],
+         "name":"updateMultiplier",
+         "outputs":[
+            
+         ],
+         "stateMutability":"nonpayable",
+         "type":"function"
+      },
+      {
+         "inputs":[
+            {
                "internalType":"uint8",
                "name":"quantity",
                "type":"uint8"
@@ -1169,7 +1199,7 @@ export default function ContractABI() {
                      "type":"uint8"
                   }
                ],
-               "internalType":"struct RockinSkullNFT.WhitelistClaimPass",
+               "internalType":"struct TheCryptoOverlords.WhitelistClaimPass",
                "name":"whitelistClaimPass",
                "type":"tuple"
             }

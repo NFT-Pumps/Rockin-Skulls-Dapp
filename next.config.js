@@ -4,8 +4,8 @@ module.exports = {
   reactStrictMode: false,
   analyticsId: '7vsHWbYwcKpA3lFTng2Qe9iNzE7',
   env: {
-    siteTitle: "Rockin' Skulls Minting Dapp",
-    contractAddress: "0xa1941D5fe7c8f38dDEFF42A7d30495f9eD3d561F",
+    siteTitle: "The Crypto Overlords Minting Dapp",
+    contractAddress: "0x16777297e7A3Fb4f684F69c34ec72bFE3b77dc75",
     infuraID: "045e9c65387a4200aa8559c347fa19a4",
     defaultGas: 125000,//75000,
     mintType : "Pre-Sale", //Pre-Sale Public
@@ -15,15 +15,16 @@ module.exports = {
     debug: false,
     network: 'mainnet',
     chainId: 1,
-    pageHeader : 'Rockin Skulls NFT',
+    pageHeader : 'The Crypto Overlords',
     pageText : 'AI is in control',
     //mintType: "Whitelist",
     blockExplorerURL: 'https://.etherscan.io/',
-    www: 'https://www.rockinskullsnft.com/',
-    mainWWW: 'https://www.rockinskullsnft.com/',
-    title: 'Rockin Skulls NFT',
+    www: 'https://www.thecryptooverlordsnft.com/',
+    mainWWW: 'https://www.thecryptooverlordsnft.com/',
+    title: 'The Crypto Overlords',
     links : {
-      opensea : "https://opensea.io/collection/rockin-skulls-nft",
+      opensea : "https://opensea.io/collection/the-crypto-overlords",
+      discord : "",
       twitter : ""
     },
     maxMint: 550,
