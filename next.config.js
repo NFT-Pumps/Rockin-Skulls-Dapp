@@ -24,7 +24,7 @@ module.exports = {
     title: 'Rockin Skulls NFT',
     links : {
       opensea : "https://opensea.io/collection/rockin-skulls-nft",
-      discord : ""
+      discord : "",
       twitter : ""
     },
     maxMint: 550,
