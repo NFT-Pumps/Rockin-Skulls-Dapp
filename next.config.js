@@ -4,7 +4,7 @@ module.exports = {
   reactStrictMode: false,
   analyticsId: '7vsHWbYwcKpA3lFTng2Qe9iNzE7',
   env: {
-    siteTitle: "TRockin Skulls Minting Dapp",
+    siteTitle: "Rockin Skulls Minting Dapp",
     contractAddress: "0xa1941D5fe7c8f38dDEFF42A7d30495f9eD3d561F",
     infuraID: "045e9c65387a4200aa8559c347fa19a4",
     defaultGas: 125000,//75000,
