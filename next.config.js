@@ -16,7 +16,7 @@ module.exports = {
     network: 'mainnet',
     chainId: 1,
     pageHeader : 'Rockin Skulls NFT',
-    pageText : 'Helping kids achieve their extracurricular goalsl',
+    pageText : 'Helping kids achieve their extracurricular goals',
     //mintType: "Whitelist",
     blockExplorerURL: 'https://.etherscan.io/',
     www: 'https://www.rockinskullsnft.com/',
